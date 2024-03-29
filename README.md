@@ -3,5 +3,5 @@
 **I am a passionate software developer with 6+ years of experience in ETL tools with back end.**
 ** I am currently pursuing DFE Cogrammar and learning Web development fundamentals.**
 
-![img1](Nature1.jpg width=100)
+![img1](Nature1.jpg width=25)
 
