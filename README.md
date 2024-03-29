@@ -4,4 +4,5 @@
 ** I am currently pursuing DFE Cogrammar and learning Web development fundamentals.**
 
 ![img1](Nature1.jpg)
+![img2](bird.jpg)
 
