@@ -1,0 +1,105 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    color: brown;
+}
+
+h2 {
+    text-align: left;
+    font-style: italic;
+}
+
+h3 {
+    width: 25%;
+}
+
+aside {
+    text-indent: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-style: italic;
+    font-family: 'Times New Roman';
+}
+
+div {
+    border-radius: 5px;
+    border-bottom: 1px solid black;
+}
+
+.div1 {
+    background-color: lightblue;
+    width: 300px;
+    padding: 50px;
+    border: 15px solid lightcoral;
+}
+
+p {
+    border: 5px solid springgreen;
+    border-style: dotted dashed solid double;
+}
+
+#p1 {
+    color: navy
+}
+
+.custom {
+    font-size: 25px;
+    line-height: 20px;
+    color: plum;
+    font-family: monospace;
+    padding: 4px;
+    margin-left: 6px;
+}
+
+nav {
+    border-bottom: 1px solid black;
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 1%;
+}
+
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 30%;
+    padding-right: 30%;
+    color: aquamarine;
+}
+
+.crumb {
+    display: inline-block;
+}
+
+.crumb a::after {
+    display: inline-block;
+    color: #000;
+    content: '>';
+    font-size: 80%;
+    font-weight: bold;
+    padding: 0 3px;
+}
+
+img {
+    max-width: 75%;
+    max-height: 75%;
+    border: 5px solid blue
+}
+
+ul {
+    color: cadetblue;
+    text-align: left;
+}
+
+figcaption {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
